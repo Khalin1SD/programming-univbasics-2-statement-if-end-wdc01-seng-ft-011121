@@ -10,3 +10,4 @@ if test_grade > 95
 else
   puts "keep on studying"
 end
+#this is for the if...elsif...else...end statement solution
