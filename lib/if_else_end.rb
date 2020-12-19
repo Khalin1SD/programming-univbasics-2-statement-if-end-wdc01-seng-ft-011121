@@ -1,4 +1,3 @@
-
 #this is for the if...elsif...else...end statement solution
 my_test_score = 94
 if my_test_score <= 80
